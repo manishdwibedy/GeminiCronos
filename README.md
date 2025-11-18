@@ -108,7 +108,11 @@ Call to action
 To learn more about Google Cloud services and to create impact for the work you do, get around to these steps right away:
 
 Check out my portfolio webpage
+
 Connect with me on LinkedIn
+
 Register for Code Vipassana sessions
+
 Join the meetup group Datapreneur Social
+
 Sign up to become Google Cloud Innovator
